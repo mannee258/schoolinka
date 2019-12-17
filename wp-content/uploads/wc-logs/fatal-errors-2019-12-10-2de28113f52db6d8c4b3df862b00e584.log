@@ -1,0 +1,16 @@
+2019-12-10T09:50:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\schoolinka\wordpress\wp-content\themes\wplms\includes\widgets\custom_bp_widgets.php on line 3
+
+2019-12-10T09:50:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\schoolinka\wordpress\wp-admin\includes\class-wp-screen.php on line 15
+
+2019-12-10T10:27:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\schoolinka\wordpress\wp-includes\widgets\class-wp-widget-recent-posts.php on line 17
+
+2019-12-10T10:28:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\schoolinka\wordpress\wp-content\plugins\buddypress\bp-core\admin\bp-core-admin-settings.php on line 18
+
+2019-12-10T12:37:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\schoolinka\wordpress\wp-includes\widgets\class-wp-widget-pages.php on line 17
+
+2019-12-10T12:38:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\schoolinka\wordpress\wp-includes\customize\class-wp-customize-cropped-image-control.php on line 17
+
+2019-12-10T12:40:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\schoolinka\wordpress\wp-includes\wp-db.php on line 2030
+
+2019-12-10T14:12:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\schoolinka\wordpress\wp-content\plugins\vibe-course-module\includes\bp-course-widgets.php on line 15
+

@@ -1,0 +1,45 @@
+* version1.5
+* Commission breakup script
+* Mycred duration parameter
+* global usage fix in points criteria for badges and certificates
+* Commission breakup in Widgets
+* WArning message
+* readme changes
+* version 1.4
+* MyCred plugin install check
+* better log entries
+* version1.3.7
+* security bug fix
+* fixes
+* loader class
+* version1.3.6
+* Log entry fix
+* Mycred label
+* Reload improvement
+* Readme updated
+* version1.3.5
+* Login error handling
+* My Cred addon insufficient error
+* Bug fix MyCred points
+* version1.3.4
+* Course not assigning on Take this course button click
+* MyCred define shortcode bug
+* Front End points deletion
+* version update 1.3.3
+* Fixed add user meta
+* readme.txt
+* Points history connection
+* bug fixes
+* Check mycred addon activation
+* Mycred Addon activation bug fix
+* Sales array error
+* version1.3
+* Small fixes
+* version 1.2
+* Added points support for Multi course pricing.
+* ADDED Translation files
+* version1.1
+* Fixes in point awarding system.
+* MyCred Widget for Dashboard and Front end Course creation changes
+* Version 1.0
+* Initial commit

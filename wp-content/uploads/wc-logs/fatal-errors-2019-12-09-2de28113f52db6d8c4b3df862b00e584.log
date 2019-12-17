@@ -1,0 +1,8 @@
+2019-12-09T01:14:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\schoolinka\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2019-12-09T01:14:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\schoolinka\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2019-12-09T02:05:52+00:00 CRITICAL Maximum execution time of 180 seconds exceeded in C:\xampp\htdocs\schoolinka\wordpress\wp-content\plugins\vibe-course-module\includes\bp-course-loader.php on line 6
+
+2019-12-09T19:35:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\schoolinka\wordpress\wp-content\themes\wplms\functions.php on line 84
+

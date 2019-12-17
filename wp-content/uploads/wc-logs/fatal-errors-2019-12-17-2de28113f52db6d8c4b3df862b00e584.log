@@ -1,0 +1,10 @@
+2019-12-17T11:14:27+00:00 CRITICAL Maximum execution time of 180 seconds exceeded in C:\xampp\htdocs\schoolinka\wordpress\wp-includes\wp-db.php on line 2030
+
+2019-12-17T11:29:46+00:00 CRITICAL Maximum execution time of 180 seconds exceeded in C:\xampp\htdocs\schoolinka\wordpress\wp-includes\wp-db.php on line 2030
+
+2019-12-17T11:51:24+00:00 CRITICAL Maximum execution time of 480 seconds exceeded in C:\xampp\htdocs\schoolinka\wordpress\wp-includes\wp-db.php on line 2030
+
+2019-12-17T11:56:21+00:00 CRITICAL Maximum execution time of 480 seconds exceeded in C:\xampp\htdocs\schoolinka\wordpress\wp-includes\wp-db.php on line 2030
+
+2019-12-17T12:03:02+00:00 CRITICAL Maximum execution time of 600 seconds exceeded in C:\xampp\htdocs\schoolinka\wordpress\wp-includes\wp-db.php on line 2030
+
